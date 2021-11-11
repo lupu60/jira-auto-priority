@@ -1,0 +1,16 @@
+modules:
+  jira:customField:
+    - key: auto-priority-by-severity-and-probability
+      name: auto-priority
+      description: auto-priority-by-severity-and-probability
+      edit:
+        function: edit
+      type: number
+      function: view
+  function:
+    - key: view
+      handler: index.renderFieldView
+    - key: edit
+      handler: index.renderFieldEdit
+app:
+  id: ari:cloud:ecosystem::app/c6552f92-6025-49a9-8275-a55e34e013b2
