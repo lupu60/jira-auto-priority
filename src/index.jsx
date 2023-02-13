@@ -74,7 +74,7 @@ const View = () => {
 const Edit = () => {
   let priority = 10;
   const onSubmit = (formValue) => {
-    const priority = calculatePriority(
+    priority = calculatePriority(
       Number(formValue.severity),
       Number(formValue.probability)
     );
