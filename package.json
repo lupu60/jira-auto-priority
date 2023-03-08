@@ -1,5 +1,5 @@
 {
-  "name": "auto-priority",
+  "name": "jira-auto-priority",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
