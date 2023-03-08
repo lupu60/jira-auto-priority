@@ -7,3 +7,8 @@ To use the auto-priority-by-severity-and-probability custom field, users can def
 Once the severity and probability levels have been defined, the auto-priority-by-severity-and-probability custom field will automatically calculate the priority of a ticket based on the severity and probability values selected by the user. This can help teams save time and ensure that they are addressing the most critical issues first.
 
 Overall, the auto-priority-by-severity-and-probability custom field is a powerful tool that can help organizations better manage their workload and ensure that critical issues are addressed in a timely manner. By leveraging this custom field, teams can improve their efficiency, reduce the risk of issues going unnoticed, and ultimately provide better service to their customers.
+
+
+
+![Screenshot 2023-03-06 at 12 30 27](https://user-images.githubusercontent.com/5337610/223747141-8c278132-db3e-444b-8891-2fa0e5373c43.png)
+![Screenshot 2023-03-06 at 12 30 23](https://user-images.githubusercontent.com/5337610/223747148-e7f64a23-511c-40f1-bd76-f4a550d947ca.png)
