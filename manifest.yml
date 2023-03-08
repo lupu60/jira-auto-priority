@@ -14,3 +14,4 @@ modules:
       handler: index.renderFieldEdit
 app:
   id: ari:cloud:ecosystem::app/5c53281f-03e1-4173-a671-fc4fc19fa846
+  name: Jira Auto Priority
