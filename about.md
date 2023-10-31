@@ -8,6 +8,7 @@ Once the severity and probability levels have been defined, the auto-priority-by
 
 Overall, the auto-priority-by-severity-and-probability custom field is a powerful tool that can help organizations better manage their workload and ensure that critical issues are addressed in a timely manner. By leveraging this custom field, teams can improve their efficiency, reduce the risk of issues going unnoticed, and ultimately provide better service to their customers.
 
+Install it from here: https://developer.atlassian.com/console/install/5c53281f-03e1-4173-a671-fc4fc19fa846?signature=6674f834c311fc5bd11c149f321f7c23f3b167c92b470aa6f67c2bb869f70f4f71505ca235ec2255f71531b86457d0660822f9cc495efb96e05a76d0bd3e37b8&product=jira
 
 
 ![Screenshot 2023-03-06 at 12 30 27](https://user-images.githubusercontent.com/5337610/223747141-8c278132-db3e-444b-8891-2fa0e5373c43.png)
